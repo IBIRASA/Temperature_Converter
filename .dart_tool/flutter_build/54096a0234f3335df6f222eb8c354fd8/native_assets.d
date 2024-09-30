@@ -1,0 +1,1 @@
+ /home/divine/Documents/projects/Temperature_Converter/.dart_tool/flutter_build/54096a0234f3335df6f222eb8c354fd8/native_assets.yaml: 
